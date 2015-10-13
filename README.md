@@ -1,4 +1,4 @@
-This tool is written by me in 2005 and I submit it to securiteam.com and they change the name of the tool and post it at http://www.securiteam.com/tools/6Q00I0UEUM.html
+This tool is written by me in 2005 and I submit it to securiteam.com and they changed the name of the tool and post it at http://www.securiteam.com/tools/6Q00I0UEUM.html
 
 ------------------------------------------------------------------------
 
@@ -22,3 +22,5 @@ Swap: 7 becomes 70.
 
 This tool make use of the WinPcap library and it listen on TCP port 1433 and 2433 and perform the above algorithm to retrieve user name and password.
 
+
+Chan Fook Sheng
